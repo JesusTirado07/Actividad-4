@@ -1,0 +1,29 @@
+
+#rectangulo{
+    width: 900px;
+    height: 3px;
+    text-align: center;
+    background-color: rgb(229, 255, 0);
+    border:solid 4px rgb(0, 0, 0);  
+}
+#rectangulo1{
+    width: 900px;
+    height: 3px;
+    text-align: center;
+    background-color: rgb(229, 255, 0);
+    border:solid 4px rgb(0, 0, 0);  
+}
+#rectangulo2{
+    width: 900px;
+    height: 1px;
+    text-align: center;
+    background-color: rgb(229, 255, 0);
+    border:solid 4px rgb(0, 0, 0);  
+}
+#rectangulo3{
+    width: 900px;
+    height: px;
+    text-align: center;
+    background-color: rgb(229, 255, 0);
+    border:solid 4px rgb(0, 0, 0);  
+}
